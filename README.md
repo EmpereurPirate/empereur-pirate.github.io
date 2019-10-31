@@ -6,6 +6,6 @@ We won't publish any illegal content or IPA file, but only mention their names f
 
 Experimental Problematic #1 :
 
-- How to background a fullscreen video while surfing on several internet tabs with an Helix RC5 Jailbroken device with no ads at all and no illegal ++ tweak ?
+- How to background for free a fullscreen video while surfing on several internet tabs with an Helix RC5 Jailbroken device with no ads at all and no illegal ++ tweak ?
 
 -> Solved.
