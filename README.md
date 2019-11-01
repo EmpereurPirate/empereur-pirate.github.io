@@ -10,4 +10,4 @@ Experimental Problematic #1 :
 
 -> Solved.
 
-Hint (or maybe it's confusing) : Did you notice that some third parties browsers are duplicating safari's core for running their own frames ?
+Hint (or maybe it's confusing) : Did you notice that some third parties browsers are duplicating safari's core to run their own frames ?
