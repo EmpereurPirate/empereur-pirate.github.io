@@ -21,11 +21,13 @@ How to restore a jailbroken ios 10 device without itunes and backup it on window
 
 -> Solved.
 
-You only need to use some trial versions or freewares : download Any iOS System repair for entering recovery mode, then FonePaw for restoring and finaly iMazing for your backup. You also will need the IPSW file adapted for your system.
+You only need to use some trial versions or freewares : download Any iOS System repair for entering recovery mode, then FonePaw for restoring and finaly iMazing for your backup. You also will need the signed IPSW file adapted for your system ( https://ipsw.me ).
 
 Links : 
 https://download.any-data-recovery.com/go/ios-system-repair_1083.exe
+
 https://www.fonepaw.fr/downloads/iphone-data-recovery.exe
+
 https://imazing.com/fr/download/windows
 
 __________________________________________________________________________________________________________________________________________
