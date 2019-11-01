@@ -9,3 +9,5 @@ Experimental Problematic #1 :
 - How to background for free a fullscreen video while surfing on several internet tabs, using an Helix RC5 Jailbroken device with no ads at all and no illegal ++ tweak ?
 
 -> Solved.
+
+Hint (or maybe it's confusing) : Did you notice that some third parties browsers are duplicating safari's core for running their own frames ?
