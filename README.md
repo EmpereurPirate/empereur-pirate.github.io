@@ -32,3 +32,11 @@ https://www.fonepaw.fr/downloads/iphone-data-recovery.exe
 https://imazing.com/fr/download/windows
 
 __________________________________________________________________________________________________________________________________________
+
+- E.P. #3 : Where to find the adequate tools when my government is harassing citizens against their fondamental rights to freely communicate, learn or access culture through the Internet, with censorship or global networks control ?
+
+-> Solved.
+
+Search for what you need on google, wait I forgot the address, what was this french website name already, thingamabob.com, thingy or stuffy.net, or whatnot.net ?
+
+________________________________________________________________________________________________________________________________________
