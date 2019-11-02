@@ -39,7 +39,7 @@ Where to find the adequate tools, when my government is harassing citizens again
 
 -> Solved.
 
-Search for what you need on google, wait I forgot the address, what was this french website name already, thingamabob.com, thingy or stuffy.fr, whatnot.net ? (Merry Xmas)
+Just search for what you need on google, wait I forgot the address, what was this french website name already, thingamabob.com, thingy or stuffy.fr, whatnot.net ? (Merry Xmas)
 
 ![machinsale](https://1.bp.blogspot.com/-zBBGEhAjH3A/Xb3TxAfC-1I/AAAAAAAAAJM/FFHiRRj75Xg4CaYp0BuVfFmZMkv2SU20wCEwYBhgL/s1600/machin.jpg)
 ________________________________________________________________________________________________________________________________________
