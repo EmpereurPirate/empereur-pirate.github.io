@@ -33,7 +33,9 @@ https://imazing.com/fr/download/windows
 
 __________________________________________________________________________________________________________________________________________
 
-- E.P. #3 : Where to find the adequate tools, when my government is harassing citizens against their fondamental rights to freely communicate, learn or access culture through the Internet, with undue intellectual property, censorship or global networks control ?
+- E.P. #3 : 
+
+Where to find the adequate tools, when my government is harassing citizens against their fondamental rights to freely communicate, learn or access culture through the Internet, with undue intellectual property, censorship or global networks control ?
 
 -> Solved.
 
