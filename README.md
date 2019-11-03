@@ -33,6 +33,8 @@ https://imazing.com/fr/download/windows
 
 Tip : After a few crashes due to cydia tweaks, you may confront yourself to a more severe one. Don't panic ! Try at first to reinstall your trial versions from new sources over the net. Or you could also compile this awesome github project : https://github.com/libimobiledevice/idevicerestore (not E.P. tested at the moment)
 
+For further information : https://www.theiphonewiki.com/wiki/PurpleRestore
+
 __________________________________________________________________________________________________________________________________________
 
 - E.P. #3 : 
