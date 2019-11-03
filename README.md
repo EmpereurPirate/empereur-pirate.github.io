@@ -31,6 +31,8 @@ https://www.fonepaw.fr/downloads/iphone-data-recovery.exe
 
 https://imazing.com/fr/download/windows
 
+Tip : After a few crahes due to cydia tweaks, you may confront a more severe one. Don't panic ! Try at first to reinstall your trial versions from new sources over the net. Or you could also compile this awesome github project : https://github.com/libimobiledevice/idevicerestore (not E.P. tested at the moment)
+
 __________________________________________________________________________________________________________________________________________
 
 - E.P. #3 : 
