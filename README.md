@@ -24,7 +24,7 @@ How to restore a jailbroken ios 10 device without itunes and backup it on window
 
 -> Solved.
 
-You only need to use some trial versions or freewares : download Any iOS System repair for entering in recovery mode, then FonePaw for restoring and finaly iMazing for your backup. You also will need the signed IPSW software update file adapted to your Apple system ( https://ipsw.me ). Please note that you would need to unjailbreak your device by rebooting it, if you wanted to backup your apps. That would be impossible, if your jailbreak was a complete untethered one. So you have to prefer semi-untethered or therered jailbreak software for this purpose.
+You only need to use some trial versions or freewares : download Any iOS System repair for entering in recovery mode, then FonePaw for restoring and finaly iMazing for your backup. You also will need the signed IPSW software update file adapted for your Apple system ( https://ipsw.me ). Please note that you would need to unjailbreak your device by rebooting it, if you wanted to backup your apps. That would be impossible, if your jailbreak was a complete untethered one. So you have to prefer semi-untethered or therered jailbreak software for this purpose.
 
 Links : 
 
@@ -34,7 +34,7 @@ https://www.fonepaw.fr/downloads/iphone-data-recovery.exe
 
 https://imazing.com/fr/download/windows
 
-Tip : After a few crashes due to cydia tweaks, you may confront yourself to a more severe one. Don't panic ! Try at first to reinstall your trial versions from new sources over the net. Or you could also compile this awesome github project : https://github.com/libimobiledevice/idevicerestore (not E.P. tested at the moment)
+Tip : After a few crashes due to cydia tweaks, you may confront yourself to a more severe one. You could get the message "The system has come to an end point" (un point d'arrêt) Don't panic ! Try at first to use the full system suppression option in imazing, then to restore with the above procedure. If necessary, reinstall your trial versions from new sources over the net. Or you could also compile this awesome github project : https://github.com/libimobiledevice/idevicerestore (not E.P. tested at the moment)
 
 For further information : https://www.theiphonewiki.com/wiki/PurpleRestore
 
