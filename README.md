@@ -34,7 +34,7 @@ https://www.fonepaw.fr/downloads/iphone-data-recovery.exe
 
 https://imazing.com/fr/download/windows
 
-Tip : After a few crashes due to cydia tweaks, you may confront yourself to a more severe one. You could get the message "The system has come to an end point" (un point d'arrêt) Don't panic ! Try at first to use the full system suppression option in imazing, then to restore with the above procedure. If necessary, reinstall your trial versions from new sources over the net. Or you could also compile this awesome github project : https://github.com/libimobiledevice/idevicerestore (not E.P. tested at the moment)
+Tip : After a few crashes due to cydia tweaks, you may confront yourself to a more severe one. You could get the message "The system has come to an end point" (un point d'arrêt) Don't panic ! Try at first to use the full system suppression option in imazing, then to restore with the above procedure. If necessary, reinstall some trial versions from new sources over the net. Or you could also compile this awesome github project : https://github.com/libimobiledevice/idevicerestore (not E.P. tested at the moment)
 
 For further information : https://www.theiphonewiki.com/wiki/PurpleRestore
 
