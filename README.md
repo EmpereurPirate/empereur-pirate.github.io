@@ -53,8 +53,7 @@ ________________________________________________________________________________
 
 - E.P. #4 :
 
-Waiting for an impactor update or a windows release of the new untethered jailbreak software from checkra1n :
+Waiting for an impactor update or a windows release of the new semi-tethered jailbreak software from checkra1n :
 
 "This beta adds an option to boot into no-substrate mode. To utilise this functionality, hold the volume-up button when the apple logo appears until the device finishes booting. From there you’ll be able to uninstall any tweaks causing you issues, and reboot to get back to a normal jailbroken state."
-
 
