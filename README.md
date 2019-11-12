@@ -50,3 +50,11 @@ Just search for what you need on google, wait I forgot the address, what was thi
 
 ![machinsale](https://1.bp.blogspot.com/-zBBGEhAjH3A/Xb3TxAfC-1I/AAAAAAAAAJM/FFHiRRj75Xg4CaYp0BuVfFmZMkv2SU20wCEwYBhgL/s1600/machin.jpg)
 ________________________________________________________________________________________________________________________________________
+
+- E.P. #4 :
+
+Waiting for an impactor update or a windows release of the new tethered jailbreak software from checkra1n :
+
+"This beta adds an option to boot into no-substrate mode. To utilise this functionality, hold the volume-up button when the apple logo appears until the device finishes booting. From there you’ll be able to uninstall any tweaks causing you issues, and reboot to get back to a normal jailbroken state."
+
+
