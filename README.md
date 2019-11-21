@@ -57,9 +57,13 @@ What to do at first with a fresh restored ios 10 install ?
 
 -> Solved.
 
-![impactor](https://1.bp.blogspot.com/-Y-ZvP68n-q8/XdZhJTp_LiI/AAAAAAAAAKI/-FI5mx3u92Y6yZVqjdy6hPDm0lUlDWbZACLcBGAsYHQ/s1600/impactor.png) a) Wait for an impactor update (Please update to Xcode 7.3 or later), not coming before christmas 2019 : https://www.valuewalk.com/2019/11/fix-cydia-impactor-xcode-7-3-error/
+![impactor](https://1.bp.blogspot.com/-Y-ZvP68n-q8/XdZhJTp_LiI/AAAAAAAAAKI/-FI5mx3u92Y6yZVqjdy6hPDm0lUlDWbZACLcBGAsYHQ/s1600/impactor.png) 
 
-![checkm8](https://1.bp.blogspot.com/-wXvSvSeK9q8/XdZhpVszzTI/AAAAAAAAAKQ/-TqxSjo6gVsEmmUNEoURAfX1s9fnLvhFACLcBGAsYHQ/s1600/checkmate.png) b) Hope for a windows release of the new semi-tethered jailbreak software from checkra1n :
+a) Wait for an impactor update (Please update to Xcode 7.3 or later), not coming before christmas 2019 : https://www.valuewalk.com/2019/11/fix-cydia-impactor-xcode-7-3-error/
+
+![checkm8](https://1.bp.blogspot.com/-wXvSvSeK9q8/XdZhpVszzTI/AAAAAAAAAKQ/-TqxSjo6gVsEmmUNEoURAfX1s9fnLvhFACLcBGAsYHQ/s1600/checkmate.png) 
+
+b) Hope for a windows release of the new semi-tethered jailbreak software from checkra1n :
 
 "This beta adds an option to boot into no-substrate mode. To utilise this functionality, hold the volume-up button when the apple logo appears until the device finishes booting. From there you’ll be able to uninstall any tweaks causing you issues, and reboot to get back to a normal jailbroken state."
 
@@ -71,7 +75,9 @@ The coincidence between the impactor error and the new jailbreak release is indu
 
 For example, you can't publish on itunesconnect with "pages" for ios 10 ! Apple suppressed the ios app "ibooks author", reserving it for macos, and did not update the ios 10 "pages" version. Apple's main goal and strategy is to sell hardware.
 
-![iosninja](https://1.bp.blogspot.com/-E967W8P6zpk/XdZc4x3P1mI/AAAAAAAAAJc/leIpxSAFEZM6PWvbiuf2_dXyvEFE7v4kACLcBGAsYHQ/s1600/iosninja.jpg) ![H3lix](https://1.bp.blogspot.com/-1E9DJTbP5yI/XdZeTbMUE0I/AAAAAAAAAJo/zAHpS6jcCXgQxfHzyQ-iHB5J2bC7DiaxQCLcBGAsYHQ/s1600/h3lix.png) c) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. 
+![iosninja](https://1.bp.blogspot.com/-E967W8P6zpk/XdZc4x3P1mI/AAAAAAAAAJc/leIpxSAFEZM6PWvbiuf2_dXyvEFE7v4kACLcBGAsYHQ/s1600/iosninja.jpg) ![H3lix](https://1.bp.blogspot.com/-aiNDLCIgtwM/XdZiORYF86I/AAAAAAAAAKc/K7WacvCC5bg3dywvMtK1ZgBvmLscbFaSACLcBGAsYHQ/s1600/h3lix.png) 
+
+c) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. 
 
 After that, download your apps, music or files from icloud. If necessary, backup your signed apps with imazing. 
 
