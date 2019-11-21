@@ -57,11 +57,10 @@ What to do at first with a fresh restored ios 10 install ?
 
 -> Solved.
 
-![impactor](https://1.bp.blogspot.com/-Y-ZvP68n-q8/XdZhJTp_LiI/AAAAAAAAAKI/-FI5mx3u92Y6yZVqjdy6hPDm0lUlDWbZACLcBGAsYHQ/s1600/impactor.png) 
 
 a) Wait for an impactor update (Please update to Xcode 7.3 or later), not coming before christmas 2019 : https://www.valuewalk.com/2019/11/fix-cydia-impactor-xcode-7-3-error/
 
-![checkm8](https://1.bp.blogspot.com/-wXvSvSeK9q8/XdZhpVszzTI/AAAAAAAAAKQ/-TqxSjo6gVsEmmUNEoURAfX1s9fnLvhFACLcBGAsYHQ/s1600/checkmate.png) 
+![impactor](https://1.bp.blogspot.com/-Y-ZvP68n-q8/XdZhJTp_LiI/AAAAAAAAAKI/-FI5mx3u92Y6yZVqjdy6hPDm0lUlDWbZACLcBGAsYHQ/s1600/impactor.png)
 
 b) Hope for a windows release of the new semi-tethered jailbreak software from checkra1n :
 
@@ -75,7 +74,7 @@ The coincidence between the impactor error and the new jailbreak release is indu
 
 For example, you can't publish on itunesconnect with "pages" for ios 10 ! Apple suppressed the ios app "ibooks author", reserving it for macos, and did not update the ios 10 "pages" version. Apple's main goal and strategy is to sell hardware.
 
-![iosninja](https://1.bp.blogspot.com/-E967W8P6zpk/XdZc4x3P1mI/AAAAAAAAAJc/leIpxSAFEZM6PWvbiuf2_dXyvEFE7v4kACLcBGAsYHQ/s1600/iosninja.jpg) ![H3lix](https://1.bp.blogspot.com/-aiNDLCIgtwM/XdZiORYF86I/AAAAAAAAAKc/K7WacvCC5bg3dywvMtK1ZgBvmLscbFaSACLcBGAsYHQ/s1600/h3lix.png) 
+![checkm8](https://1.bp.blogspot.com/-wXvSvSeK9q8/XdZhpVszzTI/AAAAAAAAAKQ/-TqxSjo6gVsEmmUNEoURAfX1s9fnLvhFACLcBGAsYHQ/s1600/checkmate.png) 
 
 c) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. 
 
@@ -86,3 +85,5 @@ Then create a note using the apple "notes" app with all your favourites cydia so
 Each link should begin with "cydia://url/https://cydia.saurik.com/api/share#?source=https://"
 
 Finally, jailbreak with H3lix like a ninja, without impactor and without an apple developer account. May the force be with you (kshhh...) ! 
+
+![iosninja](https://1.bp.blogspot.com/-E967W8P6zpk/XdZc4x3P1mI/AAAAAAAAAJc/leIpxSAFEZM6PWvbiuf2_dXyvEFE7v4kACLcBGAsYHQ/s1600/iosninja.jpg) ![H3lix](https://1.bp.blogspot.com/-aiNDLCIgtwM/XdZiORYF86I/AAAAAAAAAKc/K7WacvCC5bg3dywvMtK1ZgBvmLscbFaSACLcBGAsYHQ/s1600/h3lix.png) 
