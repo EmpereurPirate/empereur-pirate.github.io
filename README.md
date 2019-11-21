@@ -71,7 +71,9 @@ The coincidence between the impactor error and the new jailbreak release is indu
 
 For example, you can't publish on itunesconnect with "pages" on ios 10 ! Apple suppressed the ios app "ibooks author", reserving it for macos, and did not update the ios 10 "pages" version. Apple's main goal and strategy is to sell hardware.
 
-c) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. After that, download your apps, music or files from icloud. If necessary, backup your signed apps with imazing. Then create a note using the apple "notes" app with all your favourites cydia sources (1 per line).
+c) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. 
+
+After that, download your apps, music or files from icloud. If necessary, backup your signed apps with imazing. Then create a note using the apple "notes" app with all your favourites cydia sources (1 per line).
 Finally, jailbreak with H3lix like a ninja, without impactor and without an apple developer account. May the force be with you (kshhh...) !
 
 
