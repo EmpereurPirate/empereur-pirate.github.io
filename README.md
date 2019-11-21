@@ -82,7 +82,7 @@ After that, download your apps, music or files from icloud. If necessary, backup
 
 Then create a note using the apple "notes" app with all your favourites cydia sources (1 per line). 
 
-Each link should begin with ```cydia://url/https://cydia.saurik.com/api/share#?source=https://```
+Each link should begin with : ```cydia://url/https://cydia.saurik.com/api/share#?source=https://```
 
 Finally, jailbreak with H3lix like a ninja, without impactor and without an apple developer account. May the force be with you (kshhh...) ! 
 
