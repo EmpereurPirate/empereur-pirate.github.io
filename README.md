@@ -66,7 +66,8 @@ b) Hope for a windows release of the new semi-tethered jailbreak software from c
 Apparently, checkra1n is not compatible with ios 10 and starts with ios 12, that is to say, only for 64 bits devices. 
 However, some 32 bits devices run cores that may be vulnerable to the checkm8 bootrom exploit...
 
-The coincidence between the impactor error and the new jailbreak release is inducing old devices users to renew their apple hardware, just like apple's software updates, which are not compatible with their own oldest firmwares. For example, you can't publish on itunesconnect with pages on ios 10 ! Apple suppressed the ios app "ibooks author" reserving it for macos, and did not update the ios 10 "pages" version. Apple's main goal and strategy is to sell hardware.
+The coincidence between the impactor error and the new jailbreak release is inducing old devices users to renew their apple hardware, just like apple's software updates, which are not compatible with their own oldest firmwares. 
+For example, you can't publish on itunesconnect with "pages" on ios 10 ! Apple suppressed the ios app "ibooks author", reserving it for macos, and did not update the ios 10 "pages" version. Apple's main goal and strategy is to sell hardware.
 
 c) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. After that, download your apps, music or files from icloud. If necessary, backup your signed apps with imazing. Then create a note using the apple "notes" app with all your favourites cydia sources (1 per line).
 Finally, jailbreak with H3lix like a ninja, without impactor and without an apple developer account. May the force be with you (kshhh...) !
