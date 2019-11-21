@@ -71,7 +71,7 @@ The coincidence between the impactor error and the new jailbreak release is indu
 
 For example, you can't publish on itunesconnect with "pages" for ios 10 ! Apple suppressed the ios app "ibooks author", reserving it for macos, and did not update the ios 10 "pages" version. Apple's main goal and strategy is to sell hardware.
 
-c) ![iosninja](https://1.bp.blogspot.com/-E967W8P6zpk/XdZc4x3P1mI/AAAAAAAAAJc/leIpxSAFEZM6PWvbiuf2_dXyvEFE7v4kACLcBGAsYHQ/s1600/iosninja.jpg) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. 
+![iosninja](https://1.bp.blogspot.com/-E967W8P6zpk/XdZc4x3P1mI/AAAAAAAAAJc/leIpxSAFEZM6PWvbiuf2_dXyvEFE7v4kACLcBGAsYHQ/s1600/iosninja.jpg) c) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. 
 
 After that, download your apps, music or files from icloud. If necessary, backup your signed apps with imazing. 
 
