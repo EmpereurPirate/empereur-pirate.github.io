@@ -73,7 +73,10 @@ For example, you can't publish on itunesconnect with "pages" on ios 10 ! Apple s
 
 c) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. 
 
-After that, download your apps, music or files from icloud. If necessary, backup your signed apps with imazing. Then create a note using the apple "notes" app with all your favourites cydia sources (1 per line).
+After that, download your apps, music or files from icloud. If necessary, backup your signed apps with imazing. 
+
+Then create a note using the apple "notes" app with all your favourites cydia sources (1 per line).
+
 Finally, jailbreak with H3lix like a ninja, without impactor and without an apple developer account. May the force be with you (kshhh...) !
 
 
