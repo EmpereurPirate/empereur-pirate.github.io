@@ -58,11 +58,11 @@ What to do at first with a fresh restored ios 10 install ?
 **-> Solved.**
 
 
-a) Wait for an impactor update (Please update to Xcode 7.3 or later), not coming before christmas 2019 : https://www.valuewalk.com/2019/11/fix-cydia-impactor-xcode-7-3-error/
+**a) Wait** for an impactor update (Please update to Xcode 7.3 or later), not coming before christmas 2019 : https://www.valuewalk.com/2019/11/fix-cydia-impactor-xcode-7-3-error/
 
 ![impactor](https://1.bp.blogspot.com/-Y-ZvP68n-q8/XdZhJTp_LiI/AAAAAAAAAKI/-FI5mx3u92Y6yZVqjdy6hPDm0lUlDWbZACLcBGAsYHQ/s1600/impactor.png)
 
-b) Hope for a windows release of the new semi-tethered jailbreak software from checkra1n :
+**b) Hope** for a windows release of the new semi-tethered jailbreak software from checkra1n :
 
 "This beta adds an option to boot into no-substrate mode. To utilise this functionality, hold the volume-up button when the apple logo appears until the device finishes booting. From there you’ll be able to uninstall any tweaks causing you issues, and reboot to get back to a normal jailbroken state."
 
@@ -76,7 +76,7 @@ For example, you can't publish on itunesconnect with "pages" for ios 10 ! Apple 
 
 ![checkm8](https://1.bp.blogspot.com/-wXvSvSeK9q8/XdZhpVszzTI/AAAAAAAAAKQ/-TqxSjo6gVsEmmUNEoURAfX1s9fnLvhFACLcBGAsYHQ/s1600/checkmate.png) 
 
-c) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. 
+**c) Be an iosninja !** After a fresh restore, you would need to deeply clean your free memory, several times. 
 
 After that, download your apps, music or files from icloud. If necessary, backup your signed apps with imazing. 
 
