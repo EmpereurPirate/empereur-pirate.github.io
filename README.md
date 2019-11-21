@@ -75,7 +75,9 @@ c) Be an iosninja ! After a fresh restore, you would need to deeply clean your f
 
 After that, download your apps, music or files from icloud. If necessary, backup your signed apps with imazing. 
 
-Then create a note using the apple "notes" app with all your favourites cydia sources (1 per line).
+Then create a note using the apple "notes" app with all your favourites cydia sources (1 per line). 
+
+Each link should begin with "cydia://url/https://cydia.saurik.com/api/share#?source=https://"
 
 Finally, jailbreak with H3lix like a ninja, without impactor and without an apple developer account. May the force be with you (kshhh...) !
 
