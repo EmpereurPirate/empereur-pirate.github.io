@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 - Experimental Problematic (E.P.) #1 :
 
-How to background for free a fullscreen video while surfing on several internet tabs, using an Helix RC5 Jailbroken device with no ads at all and no illegal ++ tweak ?
+How to background for free a fullscreen video while surfing on several internet tabs, using an Helix RC6 Jailbroken device with no ads at all and no illegal ++ tweak ?
 
 -> Solved. (video is coming)
 
@@ -53,6 +53,20 @@ ________________________________________________________________________________
 
 - E.P. #4 :
 
-Waiting for an impactor update (Please update to Xcode 7.3 or later), or a windows release of the new semi-tethered jailbreak software from checkra1n :
+What to do at first with a fresh restored ios 10 install ?
+
+-> Solved.
+
+a) Wait for an impactor update (Please update to Xcode 7.3 or later), not coming before christmas 2019 : https://www.valuewalk.com/2019/11/fix-cydia-impactor-xcode-7-3-error/
+
+b) Hope for a windows release of the new semi-tethered jailbreak software from checkra1n :
 
 "This beta adds an option to boot into no-substrate mode. To utilise this functionality, hold the volume-up button when the apple logo appears until the device finishes booting. From there you’ll be able to uninstall any tweaks causing you issues, and reboot to get back to a normal jailbroken state."
+
+Apparently, checkra1n is not compatible with ios 10 and starts with ios 12, that i to say, only for 64 bits devices. However, some 32 bits devices run cores that may be vulnerable to the checkm8 bootrom exploit...
+
+c) Be an iosninja ! After a fresh restore, you would need to deeply clean your free memory, several times. After that, download your apps, music or files from icloud. If necessary, backup your signed apps with imazing. Then create a note using the apple "notes" app with all your favourites cydia sources (1 per line).
+Finally, jailbreak with H3lix like a ninja, without impactor and without an apple developer account.
+
+
+
