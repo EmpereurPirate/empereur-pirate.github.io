@@ -64,7 +64,7 @@ What to do at first with a fresh restored ios 10 install ?
 
 **b) Hope** for a windows release of the new semi-tethered jailbreak software from checkra1n :
 
-"This beta adds an option to boot into no-substrate mode. To utilise this functionality, hold the volume-up button when the apple logo appears until the device finishes booting. From there you’ll be able to uninstall any tweaks causing you issues, and reboot to get back to a normal jailbroken state."
+>"This beta adds an option to boot into no-substrate mode. To utilise this functionality, hold the volume-up button when the apple logo appears until the device finishes booting. From there you’ll be able to uninstall any tweaks causing you issues, and reboot to get back to a normal jailbroken state."
 
 Apparently, checkra1n is not compatible with ios 10 and starts with ios 12, that is to say, only for 64 bits devices.
 
