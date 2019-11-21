@@ -59,7 +59,7 @@ What to do at first with a fresh restored ios 10 install ?
 
 a) Wait for an impactor update (Please update to Xcode 7.3 or later), not coming before christmas 2019 : https://www.valuewalk.com/2019/11/fix-cydia-impactor-xcode-7-3-error/
 
-b) Hope for a windows release of the new semi-tethered jailbreak software from checkra1n :
+![checkm8](https://1.bp.blogspot.com/-tvJ4HVIcCY4/XdZf-1ZGTpI/AAAAAAAAAJ4/3NnAHtr4YhsUbMR7QRiGrwtjoWFcwa8HACLcBGAsYHQ/s1600/checkmate.png) b) Hope for a windows release of the new semi-tethered jailbreak software from checkra1n :
 
 "This beta adds an option to boot into no-substrate mode. To utilise this functionality, hold the volume-up button when the apple logo appears until the device finishes booting. From there you’ll be able to uninstall any tweaks causing you issues, and reboot to get back to a normal jailbroken state."
 
