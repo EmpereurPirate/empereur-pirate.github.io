@@ -70,7 +70,9 @@ Apparently, checkra1n is not compatible with ios 10 and starts with ios 12, that
 
 However, some 32 bits devices do run A- cores that may be vulnerable to the checkm8 bootrom exploit...
 
-The coincidence between the impactor error and the new jailbreak release is inducing old devices users to renew their apple hardware, just like apple's software updates, which are not compatible with their own old firmwares. 
+The coincidence between the impactor error and the new jailbreak release is inducing old devices users to renew their apple hardware, just like all apple's software updates, which are not compatible with their own old firmwares.
+
+Those bad practices consist in planned obsolescence, because they aim to reduce apple's products lifetime, to force consumers to replace it. Planned obsolescence is illegal in many countries over the world.
 
 For example, you can't publish on itunesconnect with "pages" for ios 10 ! Apple suppressed the ios app "ibooks author", reserving it for macos, and did not update the ios 10 "pages" version. Apple's main goal and strategy is to sell hardware.
 
