@@ -2,31 +2,31 @@
 
 ![Empereur Pirate](https://4.bp.blogspot.com/-_tgdYJb1rQs/XYCtHKVplLI/AAAAAAAAAFY/a9eQw_Qr7akqXA6L2cp3yQKBm3tWnXyGwCK4BGAYYCw/s1280/%25C3%25A9ditions-empereur.pirate.png)
 
-Empereur Pirate's books, tweaks &amp; How-to for iOS 10.x 32-bits
+**Empereur Pirate's books, tweaks &amp; How-to for iOS 10.x 32-bits**
 
 We won't publish any illegal content or IPA file, but only mention their names for experimental testing purposes and educational knowledge enhancement.
 
 __________________________________________________________________________________________________________________________________________
 
-- Experimental Problematic (E.P.) #1 :
+## - Experimental Problematic (E.P.) #1 :
 
 How to background for free a fullscreen video while surfing on several internet tabs, using an Helix RC6 Jailbroken device with no ads at all and no illegal ++ tweak ?
 
--> Solved. (video is coming)
+**-> Solved.** (video is coming)
 
 Hint (or maybe it's confusing) : Did you notice that some third parties browsers are duplicating safari's core to run their own frames ?
 
 __________________________________________________________________________________________________________________________________________
 
-- E.P. #2 : 
+## - E.P. #2 : 
 
 How to restore a jailbroken ios 10 device without itunes and backup it on windows 10 LTSC ?
 
--> Solved.
+**-> Solved.**
 
 You only need to use some trial versions or freewares : download Any iOS System repair for entering in recovery mode, then FonePaw for restoring and finaly iMazing for your backup. You also will need the signed IPSW software update file adapted for your Apple system ( https://ipsw.me ). Please note that you would need to unjailbreak your device by rebooting it, if you wanted to backup your apps. That would be impossible, if your jailbreak was a complete untethered one. So you have to prefer semi-untethered or therered jailbreak software for this purpose.
 
-Links : 
+**Links :** 
 
 https://download.any-data-recovery.com/go/ios-system-repair_1083.exe
 
@@ -40,22 +40,22 @@ For further information : https://www.theiphonewiki.com/wiki/PurpleRestore
 
 __________________________________________________________________________________________________________________________________________
 
-- E.P. #3 : 
+## - E.P. #3 : 
 
 Where to find the adequate tools, when my government is harassing citizens against their fondamental rights to freely communicate, learn or access culture through the Internet, with undue intellectual property, censorship or global networks control ?
 
--> Solved.
+**-> Solved.**
 
 Just search for what you need on google, wait I forgot the address, what was this french website name already, thingamabob.com, thingy or stuffy.fr, whatnot.net ? (Merry Xmas)
 
 ![machinsale](https://1.bp.blogspot.com/-zBBGEhAjH3A/Xb3TxAfC-1I/AAAAAAAAAJM/FFHiRRj75Xg4CaYp0BuVfFmZMkv2SU20wCEwYBhgL/s1600/machin.jpg)
 ________________________________________________________________________________________________________________________________________
 
-- E.P. #4 :
+## - E.P. #4 :
 
 What to do at first with a fresh restored ios 10 install ?
 
--> Solved.
+**-> Solved.**
 
 
 a) Wait for an impactor update (Please update to Xcode 7.3 or later), not coming before christmas 2019 : https://www.valuewalk.com/2019/11/fix-cydia-impactor-xcode-7-3-error/
