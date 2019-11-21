@@ -68,7 +68,7 @@ What to do at first with a fresh restored ios 10 install ?
 
 Apparently, checkra1n is not compatible with ios 10 and starts with ios 12, that is to say, only for 64 bits devices.
 
-However, some 32 bits devices run cores that may be vulnerable to the checkm8 bootrom exploit...
+However, some 32 bits devices do run A- cores that may be vulnerable to the checkm8 bootrom exploit...
 
 The coincidence between the impactor error and the new jailbreak release is inducing old devices users to renew their apple hardware, just like apple's software updates, which are not compatible with their own old firmwares. 
 
