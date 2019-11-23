@@ -18,7 +18,7 @@ Hint (or maybe it's confusing) : Did you notice that some third parties browsers
 __________________________________________________________________________________________________________________________________________
 ## - E.P. #5 : How come adbloking has become impossible on ios 10.3 without a jailbroken device and how to block video adds anyway ?
 
-We notice that some adds still appear and disappear, despite our Mega untrusted host blocker and custom lists in adblocker application.
+We notice that some adds still appear and disappear, despite our Mega untrusted host blocker and custom lists in adblocker application, with the safari host limit deactivated by blockthemall.
 Maybe our advert ID faker is involved in ad networks our ios device connects to ?
 __________________________________________________________________________________________________________________________________________
 
