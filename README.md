@@ -2,7 +2,7 @@
 
 ![Empereur Pirate](https://4.bp.blogspot.com/-_tgdYJb1rQs/XYCtHKVplLI/AAAAAAAAAFY/a9eQw_Qr7akqXA6L2cp3yQKBm3tWnXyGwCK4BGAYYCw/s1280/%25C3%25A9ditions-empereur.pirate.png)
 
-**Empereur Pirate's books, tweaks &amp; How-to for iOS 10.x 32-bits**
+**Empereur Pirate's books, tweaks &amp; How-to for iOS 10.3 32-bits**
 
 We won't publish any illegal content or IPA file, but only mention their names for experimental testing purposes and educational knowledge enhancement.
 
@@ -12,10 +12,14 @@ ________________________________________________________________________________
 
 How to background for free a fullscreen video while surfing on several internet tabs, using an Helix RC6 Jailbroken device with no ads at all and no illegal ++ tweak ?
 
-**-> Solved.** (video is coming)
+**-> Partially Solved.** (video is coming) - Experiencing some instability with adblocking on ios10 !
 
 Hint (or maybe it's confusing) : Did you notice that some third parties browsers are duplicating safari's core to run their own frames ?
+__________________________________________________________________________________________________________________________________________
+## - E.P. #5 : How come adbloking has become impossible on ios 10.3 without a jailbroken device and how to block video adds anyway ?
 
+We notice that some adds still appear and disappear, despite our Mega untrusted host blocker and custom lists in adblocker application.
+Maybe our advert ID faker is involved in ad networks our ios device connects to ?
 __________________________________________________________________________________________________________________________________________
 
 ## - E.P. #2 : 
