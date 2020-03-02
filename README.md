@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 How to background for free a fullscreen video while surfing on several internet tabs, using an Helix RC6 Jailbroken device with no ads at all and no illegal ++ tweak ?
 
-**-> Partially Solved.** (video is coming) - Experiencing some instability with adblocking on ios10 !
+**-> Partially Solved.** - Experiencing some instability with adblocking on ios10 ! Several plugins at the same time may corrupt your host file.
 
 Hint (or maybe it's confusing) : Did you notice that some third parties browsers are duplicating safari's core to run their own frames ?
 __________________________________________________________________________________________________________________________________________
@@ -90,6 +90,15 @@ Then create a note using the apple "notes" app with all your favourites cydia so
 
 Each link should begin with : ```cydia://url/https://cydia.saurik.com/api/share#?source=https://```
 
-Finally, jailbreak with H3lix like a ninja, without impactor and without an apple developer account. May the force be with you (kshhh...) ! 
+Finally, jailbreak with H3lix like a ninja, without impactor and without an apple developer account. May the force be with you (kshhh...) ! It's like waiting for the wave, when your signature is released, just run for it.
 
 ![iosninja](https://1.bp.blogspot.com/-E967W8P6zpk/XdZc4x3P1mI/AAAAAAAAAJc/leIpxSAFEZM6PWvbiuf2_dXyvEFE7v4kACLcBGAsYHQ/s1600/iosninja.jpg) ![H3lix](https://1.bp.blogspot.com/-aiNDLCIgtwM/XdZiORYF86I/AAAAAAAAAKc/K7WacvCC5bg3dywvMtK1ZgBvmLscbFaSACLcBGAsYHQ/s1600/h3lix.png) 
+
+## - E.P. #5 : How to auto-reconnect a free android vpn with a short-timed session expiration, using a non-rooted device, in two clicks ? 
+
+**-> Solved.**
+
+THis solution is quite stable, although not perfectly, as you would need to root your device or modify some deep parameters with an adb interface, to allow the autoinput app to write security settings. Combined with tasker, you can detect a "vpn connected" state, then configure it as a "not vpn connected" condition. So when disconnected, you can automate an autoinput click action on a widget you create with another app, Macrodroid. THat one can click very effectively on your vpn app connect button, if the vpn app is active. The clicking widget can be set to transparency anywhere on your screen. Set in tasker the delay to "none". Obviously, this will not work with all vpn apps. Try the christmas enigma above (EP #3) to get one working.
+
+![betternet](https://www.betternet.co/img/phone.png)
+
