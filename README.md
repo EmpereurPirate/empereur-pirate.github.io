@@ -100,5 +100,5 @@ Finally, jailbreak with H3lix like a ninja, without impactor and without an appl
 
 THis solution is quite stable, although not perfectly, as you would need to root your device or modify some deep parameters with an adb interface, to allow the autoinput app to write security settings. Combined with tasker, you can detect a "vpn connected" state, then configure it as a "not vpn connected" condition. So when disconnected, you can automate an autoinput click action on a widget you create with another app, Macrodroid. THat one can click very effectively on your vpn app connect button, if the vpn app is active. The clicking widget can be set to transparency anywhere on your screen. Set in tasker the delay to "none". Obviously, this will not work with all vpn apps. Try the christmas enigma above (EP #3) to get one working.
 
-<img src="https://www.betternet.co/img/phone.png" alt="" width="200" height="400">
+<img src="https://www.betternet.co/img/phone.png" alt="" width="200" height="350">
 
